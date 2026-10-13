@@ -1,0 +1,9 @@
+{
+  "name": "Profil Mahasiswa",
+  "short_name": "Profil",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3157d5",
+  "description": "Praktikum Pemrograman Mobile Pertemuan 2"
+}
